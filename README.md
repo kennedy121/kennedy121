@@ -1,10 +1,14 @@
-## Olá, eu sou o Kennedy Black, programador fullstack!
 <div align="center">
+  <h3 align="center">📊 Minhas Estatísticas no GitHub 📊</h3>
+  <br>
   <a href="https://github.com/kennedy121">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennedy121&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy121&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kennedy121&theme=vue-dark&hide_border=true"/>
-
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <br><br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedy121&theme=dracula" alt="GitHub Streak" />
+  </a>
 </div>
-<!--
-**kennedy121/kennedy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
